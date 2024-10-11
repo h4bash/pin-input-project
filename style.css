@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'MyCustomFont';
-    src: url('assets/fonts/TiketOdysseyText-Bold.woff2') format('woff2'),
+    src: url('https://github.com/h4bash/pin-input-project/raw/refs/heads/main/assets/fonts/TiketOdysseyText-Regular.woff2') format('woff2'),
     font-weight: normal;
     font-style: normal;
 }
