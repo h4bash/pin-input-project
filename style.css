@@ -1,8 +1,8 @@
 @font-face {
-    font-family: 'MyCustomFont';
-    src: url('https://github.com/h4bash/pin-input-project/raw/refs/heads/main/assets/fonts/TiketOdysseyText-Regular.woff2') format('woff2'),
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'TiketOdysseyText-Regular';
+  src: url(./TiketOdysseyText-Regular.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 
