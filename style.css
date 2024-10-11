@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'TiketOdysseyText-Regular';
-  src: url(./TiketOdysseyText-Regular.ttf) format('truetype');
+  src: url('https://github.com/h4bash/pin-input-project/raw/refs/heads/main/assets/fonts/TiketOdysseyText-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
