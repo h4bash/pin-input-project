@@ -1,7 +1,6 @@
 @font-face {
     font-family: 'MyCustomFont';
-    src: url('https://raw.githubusercontent.com/your-username/your-repository-name/main/fonts/MyCustomFont.woff2') format('woff2'),
-         url('https://raw.githubusercontent.com/your-username/your-repository-name/main/fonts/MyCustomFont.woff') format('woff');
+    src: url('assets/fonts/TiketOdysseyText-Bold.woff2') format('woff2'),
     font-weight: normal;
     font-style: normal;
 }
